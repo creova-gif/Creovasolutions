@@ -10,7 +10,7 @@
 
 This repo is reserved for the CREOVA Solutions website. As of now it contains only the base project scaffold — the shared UI component kit and an empty app shell, with no content or pages built yet.
 
-[ADD SCREENSHOT HERE]
+![Current state — bare scaffold, nothing built yet](docs/screenshots/dashboard.png)
 
 ## Status: Not yet started
 
